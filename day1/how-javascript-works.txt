@@ -1,0 +1,23 @@
+in this episode we  are going to learn about how javacript works
+----------------------------------------------------------------
+
+
+Everything in javascript happend inside an Execution Context 
+
+Execution context is  a big box where there are two component 
+* Memory component
+* Code component
+
+in Memory component variables, functions  will be stored as a key value pair the memory component has an another
+name which is  variable enviroment
+
+
+in code component the all javascript code will run one line at the time  . it has an another name Thread of Execution
+
+
+
+Javascript is synchronous  single threaded language
+
+synchronous means it will one line at the time .it can go to the next line once 
+
+the current line has been executed this is synchronous single threaded 
