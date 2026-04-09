@@ -20,4 +20,4 @@ Javascript is synchronous  single threaded language
 
 synchronous means it will one line at the time .it can go to the next line once 
 
-the current line has been executed this is synchronous single threaded 
+the current line has been executed that's why it is synchronous single threaded 
