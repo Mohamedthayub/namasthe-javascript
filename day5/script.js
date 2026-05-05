@@ -5,4 +5,4 @@ function b(){
 }
 console.log(a);
 // console.log(x);
-console.log(this.x);
+console.log(this.x);.s
